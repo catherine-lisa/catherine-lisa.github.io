@@ -2,60 +2,26 @@
 permalink: /
 title: "About me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
-<font color=grey> [Updated on 5th July, 2025]</font>
 
-Hi! I'm Yihao Liu (刘奕好), a fifth-year PhD student at [IIIS, Tsinghua University](https://iiis.tsinghua.edu.cn/en/), advised by [Huanchen Zhang](https://people.iiis.tsinghua.edu.cn/~huanchen/). I hold a bachelor's degree from Yuanpei College, Peking University. Download my CV [here](../assets/Yihao_Liu_CV.pdf).
-Please contact me via yhliu918@gmail.com or the telephone number in my CV. (Notice that liuyihao21@mails.tsinghua.edu.cn is an abandoned email address)
+Hi! I'm **Shutong Jiang** (江书童), a Master's student at Tsinghua University (2023.9 – 2026.6), with a Bachelor's degree from 2019.9 – 2023.6. My research focuses on **AI agents**, **large language models (LLMs)**, **RAG**, and **vision–language (VL)** systems.
 
+**Research focus**
 
-**Research Focus**  
-- **Database Systems**: Optimizing modern analytical engines (e.g., DuckDB, Presto). My published work explores *co-designing storage and execution for memory-efficient query processing*.  
-- **LLM Inference Acceleration**: Researching inference acceleration for diffusion large language models, working with [Biqing Qi](https://biqing-qi.github.io/). I'm looking for opportunities to build efficient LLM infrastructure.
+- **Agent & LLM**: Qwen3 Agent (MCP, planning–action–reflection), VL function calling, model-as-judge pipelines, and multi-turn reasoning.
+- **Edge ML**: Worked on Microsoft Edge Copilot and on-device models (SFT, DPO) during an internship at Microsoft (2024.3 – 2024.10).
+- **3D perception**: Experience in fully sparse 3D object detection and related methods (2022.11 – 2023.6).
 
+I contributed to the **Qwen-3** and **Qwen3-VL** technical reports and have project experience in **RAG** (e.g. DWF) and **chain-of-thought (CoT)** with Qwen3.
 
-My personal hobbies include classical music (big fan of Daniel Barenboim and Janine Jansen), singing, and traveling. 
-Currently practicing Deutsch. Danke für ihre Aufmerksamkeit.
+Download my CV [here](../assets/Shutong_Jiang_CV.pdf). You can reach me at [jiangst23@mails.tsinghua.edu.cn](mailto:jiangst23@mails.tsinghua.edu.cn).
 
+## Selected publications
 
-## Published Papers
+- **Qwen-3 Technical Report** (Contributor) — An Yang, Anfeng Li, ..., Shuai Bai, **Shutong Jiang**, Sibo Song, ... [ArXiv](https://arxiv.org/)
+- **Qwen3-VL Technical Report** (Core Contributor) — Shuai Bai, Yuxuan Cai, ..., Binyuan Hui, **Shutong Jiang**, Zhaohai Li, ... [ArXiv](https://arxiv.org/)
 
-### Database Papers
-  Theme: <font color=grey>Co-designing storage and execution for memory-efficient query processing </font>
-
-  **VLDB '25** | **Selective Late Materialization in Modern Analytical Databases**  
-  **Yihao Liu**, Shaoxuan Tang, Yulong Hui, Hangrui Zhou, Huanchen Zhang  
-  [PDF](link) | [Code](https://github.com/yhliu918/duckdb/tree/latest) 
-
-  **SIGMOD '24** | **LeCo: lightweight compression via learning serial correlations**  
-  **Yihao Liu**, Xinyu Zeng, Huanchen Zhang  
-  [PDF](https://dl.acm.org/doi/10.1145/3639320) | [Code](https://github.com/yhliu918/Learn-to-Compress) 
-
-  **CIDR '24** | **Cost-Intelligent Data Analytics in the Cloud**  
-  Huanchen Zhang, **Yihao Liu**, Jiaqi Yan  
-  [PDF](https://www.cidrdb.org/cidr2024/papers/p78-zhang.pdf) | [Code](https://github.com/yhliu918/presto-oss-new) 
-
-  **Preprint** | **Rethinking Vectorized Execution: The Case for Adaptive Pipeline Fragmentation in NUMA-aware Systems**  
-  Hangrui Zhou\*, Yihao Liu\*, Weitao Wan, Mingyu Gao, Huanchen Zhang
-
-
-### LLM Papers 
-
-  **EMNLP '25 (Findings)** | **OkraLong: A Flexible Retrieval-Augmented Framework for Long-Text Question Answering**  
-  Yulong Hui, **Yihao Liu**, Yao Lu, Huanchen Zhang  
-  [PDF](https://arxiv.org/abs/2503.02603) 
-
-  **Under Review** | **Scale-Doc: Scaling LLM-based Predicates over Enormous Documents**  
-  Hengrui Zhang\*, Yulong Hui\*, **Yihao Liu**, Huanchen Zhang  
-  [PDF](https://www.arxiv.org/pdf/2509.12610) | [Code](https://github.com/Seurgul/ScaleDoc) 
-
-  **Preprint** | **A survey of reinforcement learning for large reasoning models**  
-  Kaiyan Zhang, Yuxin Zuo, ... **Yihao Liu**, ..., Biqing Qi, Ning Ding, Bowen Zhou
-  [PDF](https://arxiv.org/pdf/2509.08827?) 
-
-
-
-<small>* means equal contribution
+*(Add the exact ArXiv URLs from your CV when available.)*

@@ -8,68 +8,68 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Yihao Liu's Homepage"
+title                    : "Shutong Jiang's Homepage"
 title_separator          : "-"
-name                     : &name "Yihao Liu"
+name                     : &name "Shutong Jiang"
 description              : &description "personal description"
-url                      : https://yhliu918.github.io
+url                      : https://catherine-lisa.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "yhliu918/yhliu918.github.io"
+repository               : "catherine-lisa/catherine-lisa.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "vienna.jpg"
-  name             : "Yihao Liu"
-  pronouns         : "She/her"
-  bio              : "5th-year PHD @ IIIS"
+  avatar           : "shutong.jpg"
+  name             : "Shutong Jiang"
+  pronouns         : #
+  bio              : "Master's student @ Tsinghua University"
   location         : "Beijing, China"
   employer         : "Tsinghua University"
   uri              : # URL
-  email            : "yhliu918@gmail.com" 
+  email            : "jiangst23@mails.tsinghua.edu.cn"
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&view_op=list_works&gmla=AKKJWFc9qrpYcBlZdZRTl7dyFuk_z2jxPcl8SsQ6t_ZGJn8DgVvJ2NrNdCJYDRVtnxR49M-NrKupTihxDVYr5QPx670&user=8HKz8HoAAAAJ"
+  arxiv            : # URL
+  googlescholar    : #
   impactstory      : # URL
-  orcid            : "https://orcid.org/0000-0003-2628-354X"
+  orcid            : #
   researchgate     : # URL
 
   # Repositories and software development
-  bitbucket        : # Username - Update with your username on the site
-  codepen          : # Username
-  dribbble         : # Username
-  github           : "yhliu918"
-  kaggle           : # Username  
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+  bitbucket        : #
+  codepen          : #
+  dribbble         : #
+  github           : "catherine-lisa"
+  kaggle           : #
+  stackoverflow    : #
 
   # Social media
-  bluesky          : #"bsky.app" # Replace this with you Bluesky username
-  facebook         : # Username
-  flickr           : # Username
-  foursquare       : # Username
-  goodreads        : # Username
-  google_plus      : # Username
-  keybase          : # Username
-  instagram        : # Username
-  lastfm           : # Username
-  linkedin         : # Username
-  mastodon         : # URL
-  medium           : # URL
-  pinterest        : # Username
-  soundcloud       : # Username
-  steam            : # Username
-  telegram         : # URL
-  tumblr           : # Username
-  twitter          :  YihaoLiu13
-  vine             : # Username
-  weibo            : # Username
-  wikipedia        : # Username
-  xing             : # Username
-  youtube          : # Username
-  zhihu            : # URL
+  bluesky          : #
+  facebook         : #
+  flickr           : #
+  foursquare       : #
+  goodreads        : #
+  google_plus      : #
+  keybase          : #
+  instagram        : #
+  lastfm           : #
+  linkedin         : #
+  mastodon         : #
+  medium           : #
+  pinterest        : #
+  soundcloud       : #
+  steam            : #
+  telegram         : #
+  tumblr           : #
+  twitter          : #
+  vine             : #
+  weibo            : #
+  wikipedia        : #
+  xing             : #
+  youtube          : #
+  zhihu            : #
 
 
 # Site Settings
