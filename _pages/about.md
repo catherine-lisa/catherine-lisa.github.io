@@ -13,9 +13,6 @@ Master Student at Tsinghua University.
 Email: [jiangst23@mails.tsinghua.edu.cn](mailto:jiangst23@mails.tsinghua.edu.cn)  
 [GitHub](https://github.com/catherine-lisa) / [Google Scholar](https://scholar.google.com/citations?hl=en&user=vLyEv5EAAAAJ)
 
-Download my CV [here](../assets/Shutong_Jiang_CV.pdf).
-
----
 
 ## Education
 
