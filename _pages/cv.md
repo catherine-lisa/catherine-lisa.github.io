@@ -9,46 +9,74 @@ redirect_from:
 
 {% include base_path %}
 
+# Jiang Shutong (江姝潼)
+
+Master Student at Tsinghua University.  
+Email: [jiangst23@mails.tsinghua.edu.cn](mailto:jiangst23@mails.tsinghua.edu.cn)  
+[GitHub](https://github.com/catherine-lisa) / [Google Scholar](https://scholar.google.com/citations?hl=en&user=vLyEv5EAAAAJ)
+
 You can download the full CV [here](../assets/Shutong_Jiang_CV.pdf).
 
-Contact
-======
-* Phone: (+86) 19965459878
-* Location: Beijing, China
-* Email: jiangst23@mails.tsinghua.edu.cn
-* GitHub: [catherine-lisa](https://github.com/catherine-lisa)
+---
 
-Education
-======
-* M.S. (expected 2026), Tsinghua University, 2023.9 – 2026.6
-* B.S., 2019.9 – 2023.6
+## Education
 
-Experience
-======
-* **Agent / LLM research** (2025.3 – present)
-  * Qwen3 Agent (MCP): planning–action–reflection agent, SFT, model-as-judge pipelines; contributions to GAIA/BFCL benchmarks.
-  * Qwen VL Agent (2025.6 – 2025.8): vision–language function calling, think/no-think reasoning.
-  * Agent pre-training (2025.6 – 2025.8): tool-to-query and text-to-trace, MCP/RapidAPI, model-as-judge.
-  * Multi-agent / role-playing and LLM research (2024.10 – 2025.1).
+* **Tsinghua University**
+    * M.S. in Software Engineering, School of Software
+    * Sept. 2023 - June 2026 (Expected)
+    * Supervised by Prof. Yingbo Liu at the Tsinghua Thulab
+* **Beijing University of Posts and Telecommunications (BUPT)**
+    * B.E. in Network Engineering, School of Computer Science
+    * Sept. 2019 - June 2023
+    * Ranked 1st in major, recommended for admission to Tsinghua University
 
-* **Microsoft – Edge Machine Learning** (2024.3 – 2024.10)
-  * Edge Copilot and on-device models; SFT with 400k samples (Qwen, Mistral, Hermes, LLaMA3 8B); DPO and metrics (e.g. 78% on Hermes-7B, 45% / 10% / 20% on selected benchmarks).
+---
 
-* **Deep Perception – 3D** (2022.11 – 2023.6)
-  * Fully sparse 3D object detection; FSD-style 3D detection; TTA on KITTI (e.g. L2 72.9, 78.16; ~7.2% improvement); work on logits and calibration (~3%, ~4.5%).
+## Publications
 
-Project experience
-======
-* **RAG (DWF)** (2025.1 – 2025.7): OCR, text tiling, API integration; RAG pipeline and prompt design; ~24% improvement on a CoT-related metric.
-* **CoT with Qwen3** (2025.2 – 2025.5): Chain-of-thought for LLMs; <think>, short_think, no_think-style CoT; Qwen-32B SFT; AIME and related benchmarks (e.g. short-think 22% → 62.2%, no-think 40.0%).
+* **DeepPlanning: Benchmarking Long-Horizon Agentic Planning with Verifiable Constraints** **Shutong Jiang**, et al.  
+    *arXiv preprint*, 2026. [[Link](https://arxiv.org/abs/2601.18137)]
 
-Publications
-======
-* **Qwen-3 Technical Report** — Contributor (An Yang, Anfeng Li, ..., Shuai Bai, **Shutong Jiang**, Sibo Song, ...). 2025.2 – 2025.5. [ArXiv](https://arxiv.org/)
-* **Qwen3-VL Technical Report** — Core Contributor (Shuai Bai, Yuxuan Cai, ..., Binyuan Hui, **Shutong Jiang**, Zhaohai Li, ...). 2025.7 – 2025.9. [ArXiv](https://arxiv.org/)
+* **Qwen-3 Technical Report** An Yang, Anfeng Li, ..., **Shutong Jiang**, ..., et al.  
+    *arXiv preprint*, 2025. [[Link](https://arxiv.org/abs/2502.01103)]
 
-Skills
-======
-* **Programming:** Python, PyTorch, NumPy, Pandas, Matplotlib
-* **Domains:** Agent systems, RAG, LLM (Llama, DeepSeek, Qwen), LlamaFactory, Megatron, AI tooling
-* **English:** CET-6 (586), CET-4 (684), TOEFL 97
+* **Qwen3-VL Technical Report** Shuai Bai, Yuxuan Cai, ..., **Shutong Jiang**, ..., et al.  
+    *arXiv preprint*, 2025. [[Link](https://arxiv.org/abs/2502.03135)]
+
+---
+
+## Experience
+
+### **Alibaba Tongyi Lab**
+**Duties: Algorithm Intern (Agent Group)**
+* **MCP Integration & Paradigm Optimization**: Designed a "Planning-Action-Reflection" framework for Qwen3 Agents, enhancing model reasoning and task decomposition.
+* **Qwen-VL Agent System**: Constructed a three-stage data pipeline for multimodal tool-calling, introducing "Zoom-in & Search" patterns for complex visual reasoning.
+* **Agent Pre-training**: Developed a large-scale data generation pipeline for tool-use, producing over 2.38M high-quality trajectories (9.6B tokens) to internalize agentic capabilities.
+
+### **01.AI (Lingyi Wanwu)**
+**Duties: Algorithm Intern (Alignment & RL Group)**
+* **Novel Writing Agent**: Built a Multi-Agent framework utilizing Role-Playing paradigms to automate long-form fiction creation.
+* **Dynamic Memory Mechanism**: Implemented an LLM-driven memory system with sliding window updates to ensure character and plot consistency in large-scale narratives.
+
+### **Microsoft**
+**Duties: Algorithm Intern (Edge Machine Learning Group)**
+* **Edge Copilot Optimization**: Fine-tuned 8B-scale open-source models for automatic browser tab grouping, achieving a 78% user click-acceptance rate.
+* **Fine-grained Alignment**: Utilized DPO and divide-and-conquer strategies to align model outputs with user preferences for balanced grouping granularity.
+
+---
+
+## Honors & Awards
+
+* **Tsinghua-Friend Ningde Apprentice Scholarship**, 2024
+* **Excellent Student Leader**, Tsinghua University, 2023
+* **National Scholarship**, 2021
+* **Outstanding Graduate of Beijing**, 2023
+* **Huawei Scholarship** (School-Enterprise Cooperation), 2020
+
+---
+
+## Skills
+
+* **Programming**: Proficient in **Python**; experienced with **PyTorch** and data science libraries (Numpy, Pandas, Matplotlib).
+* **Professional**: Deep understanding of **LLM Agents**, **RAG**, and fine-tuning techniques; skilled in **Llama-Factory** and **Megatron** frameworks.
+* **Language**: Excellent English proficiency (**CET-6: 586**, **TOEFL: 97**), capable of writing professional technical documentation.

@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Shutong Jiang's Homepage"
 title_separator          : "-"
-name                     : &name "Shutong Jiang"
+name                     : &name "Jiang Shutong (江姝潼)"
 description              : &description "personal description"
 url                      : https://catherine-lisa.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,9 +22,9 @@ repository               : "catherine-lisa/catherine-lisa.github.io"
 author:
   # Biographic information
   avatar           : "shutong.jpg"
-  name             : "Shutong Jiang"
+  name             : "Jiang Shutong (江姝潼)"
   pronouns         : #
-  bio              : "Master's student @ Tsinghua University"
+  bio              : "Master Student @ Tsinghua University"
   location         : "Beijing, China"
   employer         : "Tsinghua University"
   uri              : # URL
@@ -32,7 +32,7 @@ author:
 
   # Academic websites
   arxiv            : # URL
-  googlescholar    : #
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=vLyEv5EAAAAJ"
   impactstory      : # URL
   orcid            : #
   researchgate     : # URL

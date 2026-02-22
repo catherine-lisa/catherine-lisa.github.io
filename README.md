@@ -3,7 +3,7 @@
 
 Personal academic homepage (forked from [yhliu918/yhliu918.github.io](https://github.com/yhliu918/yhliu918.github.io), template: Academic Pages / Minimal Mistakes).
 
-**Optional personalization:** Add your photo as `images/shutong.jpg` for the sidebar avatar. Replace `assets/Shutong_Jiang_CV.pdf` with an English CV PDF if needed. Update the ArXiv `paperurl` in `_publications/*.md` and the links in `_pages/about.md` with your actual paper URLs.
+**Optional:** Replace `assets/Shutong_Jiang_CV.pdf` with an updated CV PDF when needed.
 
 ---
 
