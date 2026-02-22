@@ -11,9 +11,9 @@ redirect_from:
 
 Hi, I'm Shutong Jiang (江姝潼), a second-year Master student at **Tsinghua University (THU)**, supervised by Prof. Yingbo Liu in the school of Software.
 
-I am currently a candidate for several elite talent programs, including **Alibaba Jindouyun (筋斗云)**, **Baidu Qingyun (青云)**, **Meituan Redstar**, and **Ant Group Star**. My research focuses on building next-generation intelligent systems, with specific interests in **Agentic Systems**, **Long-horizon Planning**, and **LLM Reasoning**.
-
 I have gained extensive industry experience through algorithm internships at **Microsoft (MAI)**, **Alibaba (Qwen)**. Now I am interning at **Hunyuan Group(Tencent)** as a research intern.
+
+My research interests focus on the field of LLM Agents, with specific interests in **Agentic Systems**, **Long-horizon Planning**, and **LLM Reasoning**. If you are interested in my research, please feel free to contact me.
 
 Email: [jiangst23@mails.tsinghua.edu.cn](mailto:jiangst23@mails.tsinghua.edu.cn)  
 [GitHub](https://github.com/catherine-lisa) / [Google Scholar](https://scholar.google.com/citations?hl=en&user=vLyEv5EAAAAJ)
