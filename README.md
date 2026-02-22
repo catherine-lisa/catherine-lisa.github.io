@@ -1,12 +1,6 @@
 
 # Shutong Jiang's Homepage
 
-Personal academic homepage (forked from [yhliu918/yhliu918.github.io](https://github.com/yhliu918/yhliu918.github.io), template: Academic Pages / Minimal Mistakes).
-
-**Optional:** Replace `assets/Shutong_Jiang_CV.pdf` with an updated CV PDF when needed.
-
----
-
 # Academic Pages (template)
 
 ![pages-build-deployment](https://github.com/academicpages/academicpages.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)
